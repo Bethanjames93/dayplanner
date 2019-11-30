@@ -1,4 +1,7 @@
-.jumbotron {
+div.jumbotron {
     text-align: center;
     border-bottom: 8px solid slategray;
+    background-color: white;
 }
+
+.planner
