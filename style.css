@@ -4,4 +4,21 @@ div.jumbotron {
     background-color: white;
 }
 
-.planner
+textarea {
+    background: transparent;
+    resize: none;
+    border: none;
+    border-left: 1px solid black;
+    padding: 10px 15px;
+}
+
+.time {
+    text-align: center;
+    border-top: 1px dashed black;
+}
+
+button.save {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
